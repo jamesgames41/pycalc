@@ -43,18 +43,17 @@ $25 \times 4 = 100$
 Select the **Geometry** mode. For a circle, the app uses the formula:
 $$A = \pi r^2$$
 *(Where $r$ is the radius provided by the user)*
-
+* **3D Shape Calculations:** Support for Volume and Surface Area of:
+    * Cubes
+    * Spheres
+    * Cylinders
+    * Pyramids
 ---
 
 ## 🗺️ Roadmap (Planned Features)
 
 We are constantly working to make PyCalc more powerful. Upcoming updates include:
 
-* **3D Shape Calculations:** Support for Volume and Surface Area of:
-    * Cubes
-    * Spheres
-    * Cylinders
-    * Pyramids
 * **History Log:** Save your previous calculations to a `.txt` file.
 * **GUI Version:** A graphical user interface using Tkinter or PyQt.
 
