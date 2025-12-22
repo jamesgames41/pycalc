@@ -16,8 +16,6 @@ PyCalc is a lightweight, easy-to-use CLI application designed for quick mathemat
 * **3D Shape Calculations:** Support for Volume and Surface Area of:
     * Cubes
     * Spheres
-    * Cylinders
-    * Pyramids
 ---
 
 ## 🛠️ Installation
