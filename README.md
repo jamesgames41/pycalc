@@ -43,11 +43,10 @@ $25 \times 4 = 100$
 Select the **Geometry** mode. For a circle, the app uses the formula:
 $$A = \pi r^2$$
 *(Where $r$ is the radius provided by the user)*
+### 3D Area Calculation
 * **3D Shape Calculations:** Support for Volume and Surface Area of:
     * Cubes
     * Spheres
-    * Cylinders
-    * Pyramids
 ---
 
 ## 🗺️ Roadmap (Planned Features)
