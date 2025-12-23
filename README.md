@@ -22,7 +22,7 @@ PyCalc is a lightweight, easy-to-use CLI application designed for quick mathemat
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/pycalc.git](https://github.com/yourusername/pycalc.git)
+    git clone [https://github.com/jamesgames41/pycalc.git](https://github.com/yourusername/pycalc.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
